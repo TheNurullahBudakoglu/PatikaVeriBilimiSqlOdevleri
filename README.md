@@ -1,0 +1,2 @@
+# PatikaVeriBilimiSqlOdevleri
+www.patika.dev
